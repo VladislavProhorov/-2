@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" modified="2023-06-29T10:18:19.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" etag="nu1D0mR6WubWwjKnbGxg" version="21.5.1" type="github">
+  <diagram name="Страница 1" id="EeKe13oNsAodVPisKXn6">
+    <mxGraphModel dx="1161" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mpSBa62FsQwzxNsvpmeQ-1" target="mpSBa62FsQwzxNsvpmeQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mpSBa62FsQwzxNsvpmeQ-3" target="mpSBa62FsQwzxNsvpmeQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-3" value="Получение информации о доступных рейсах" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="50" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-4" value="выбор и оплата авиабилетов" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="130" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mpSBa62FsQwzxNsvpmeQ-6" target="mpSBa62FsQwzxNsvpmeQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-6" value="Выбор рейса" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="50" width="76" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mpSBa62FsQwzxNsvpmeQ-8" target="mpSBa62FsQwzxNsvpmeQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-8" value="Проверка доступности мест" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mpSBa62FsQwzxNsvpmeQ-10" target="mpSBa62FsQwzxNsvpmeQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-10" value="Поиск других авиакомпаний" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mpSBa62FsQwzxNsvpmeQ-16" target="mpSBa62FsQwzxNsvpmeQ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-31" value="да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mpSBa62FsQwzxNsvpmeQ-24">
+          <mxGeometry x="-0.5848" y="-2" relative="1" as="geometry">
+            <mxPoint x="10" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mpSBa62FsQwzxNsvpmeQ-16" target="mpSBa62FsQwzxNsvpmeQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-30" value="нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mpSBa62FsQwzxNsvpmeQ-27">
+          <mxGeometry x="-0.057" y="-2" relative="1" as="geometry">
+            <mxPoint x="-5" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mpSBa62FsQwzxNsvpmeQ-22" target="mpSBa62FsQwzxNsvpmeQ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-22" value="Запрос данных пассажиров" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mpSBa62FsQwzxNsvpmeQ-32" target="mpSBa62FsQwzxNsvpmeQ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-32" value="Оформление бронирования" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mpSBa62FsQwzxNsvpmeQ-34" target="mpSBa62FsQwzxNsvpmeQ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-34" value="Проверка данных пассажиров" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mpSBa62FsQwzxNsvpmeQ-36" target="mpSBa62FsQwzxNsvpmeQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-36" value="Выдача билетов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mpSBa62FsQwzxNsvpmeQ-37" target="mpSBa62FsQwzxNsvpmeQ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-37" value="Оплата и подтверждение" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpSBa62FsQwzxNsvpmeQ-45" value="Завершение процесса" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="270" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
